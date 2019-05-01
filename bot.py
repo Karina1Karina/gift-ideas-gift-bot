@@ -1,7 +1,7 @@
 # coding: utf-8
 import telebot
 import random
-bot=telebot.TeleBot("token")
+bot=telebot.TeleBot("799720058:AAHbMmg0bq1MegbZ5RNtjQ9MdF9Vnvroi74")
 
 
 @bot.message_handler(commands=['start', 'help'])
